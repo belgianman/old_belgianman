@@ -10,7 +10,8 @@ Find us at http://blgn.mn
 
 ### now
 
-* got nothin'
+* hcard support on artist pages
+* hcalendar support on event/venue pages
 
 ### waiting
 
