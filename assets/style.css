@@ -188,7 +188,11 @@ soundcloud {
 	font-weight: 900;
 }
 
-
+#galleria {
+	width: 100%;
+	height: 400px;
+	background: black;
+}
 
 /*
 	Variable Grid System (Fluid Version).
