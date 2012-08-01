@@ -1,1 +1,3 @@
-Insert some clever text here.\n
+# blgn.mn
+
+This is the website for Belgian Man Records
