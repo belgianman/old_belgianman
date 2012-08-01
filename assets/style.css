@@ -116,11 +116,12 @@ p {
 .artistname {
 	width: 100%;
 	font-size: 1em;
-	text-align: left;
+	text-align: center;
 	height: 1.5em;
 	padding-top: .5em;
 	color: black;
 	padding-left: .2em;
+	font-family: "myriad-pro",sans-serif;
 	border-bottom: 2px solid black;
 }
 
