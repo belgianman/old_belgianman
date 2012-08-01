@@ -33,8 +33,11 @@ a {
 
 
 .nav {
+	text-transform: uppercase;
+	font-family: "myriad-pro",sans-serif;
+	font-style: normal;
+	font-weight: 700;
 	font-size: 1.5em;
-	font-weight: 900;
 	height: 20px;
 	color: black;
 }
@@ -152,9 +155,18 @@ soundcloud {
 .album {
 	margin-bottom: 2em;
 }
+
 .video {
 	height: 281px;
 }
+
+.quote {
+	text-align: center;
+	font-style: italic;
+}
+
+
+
 /*
 	Variable Grid System (Fluid Version).
 	Learn more ~ http://www.spry-soft.com/grids/
