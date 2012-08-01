@@ -1,6 +1,0 @@
-# todo
-
-* dj wars / rmb page
-* finish videos page
-* add zonestuff to releases page
-* put mixes after releases
