@@ -8,12 +8,11 @@ Find us at http://blgn.mn
 
 ## todo
 
-* store page?
-
 ### waiting
 
 * dj wars / rmb page @ remy for djwars 2
 
-## ideas (yay future)
+### ideas (yay future)
 
+* store page
 * switchable colurs
