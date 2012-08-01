@@ -190,8 +190,13 @@ soundcloud {
 
 .galleria {
 	width: 100%;
+	color: white;
 	height: 400px;
 	background: black;
+}
+
+.gallery_super {
+	width: 100%;
 }
 
 /*
