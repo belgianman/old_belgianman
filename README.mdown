@@ -12,3 +12,7 @@ Find us at http://blgn.mn
 * finish videos page
 * add zonestuff to releases page
 * put mixes after releases
+
+## ideas (yay future)
+
+* switchable colurs
