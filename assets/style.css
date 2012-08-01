@@ -152,6 +152,9 @@ soundcloud {
 .album {
 	margin-bottom: 2em;
 }
+.video {
+	height: 281px;
+}
 /*
 	Variable Grid System (Fluid Version).
 	Learn more ~ http://www.spry-soft.com/grids/
