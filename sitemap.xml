@@ -6,22 +6,22 @@
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://blgn.mn/</loc>
-  <lastmod>2012-08-01T10:56:23Z</lastmod>
+  <lastmod>2012-08-01T17:34:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/abbott/</loc>
-  <lastmod>2012-08-01T10:56:19Z</lastmod>
+  <lastmod>2012-08-01T17:34:42Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/arjun/</loc>
-  <lastmod>2012-08-01T10:56:24Z</lastmod>
+  <lastmod>2012-08-01T17:34:51Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/arjuntina/</loc>
-  <lastmod>2012-08-01T10:56:24Z</lastmod>
+  <lastmod>2012-08-01T20:13:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://blgn.mn/artists/</loc>
-  <lastmod>2012-08-01T10:56:21Z</lastmod>
+  <lastmod>2012-08-01T20:13:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/assets/</loc>
-  <lastmod>2012-08-01T09:56:14Z</lastmod>
+  <lastmod>2012-08-01T17:19:45Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,7 +46,7 @@
  </url>
  <url>
   <loc>http://blgn.mn/assets/artists/</loc>
-  <lastmod>2012-08-01T08:22:56Z</lastmod>
+  <lastmod>2012-08-01T20:06:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -87,6 +87,16 @@
  <url>
   <loc>http://blgn.mn/assets/artists/chrispage.jpg</loc>
   <lastmod>2012-08-01T08:22:41Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/artists/ciocci.jpg</loc>
+  <lastmod>2012-08-01T20:06:33Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/artists/cioccipage.jpg</loc>
+  <lastmod>2012-08-01T20:06:33Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -240,8 +250,118 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blgn.mn/assets/grid.css</loc>
-  <lastmod>2012-08-01T08:22:57Z</lastmod>
+  <loc>http://blgn.mn/assets/imma/</loc>
+  <lastmod>2012-08-01T17:20:18Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma01.jpg</loc>
+  <lastmod>2012-08-01T17:20:25Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma02.jpg</loc>
+  <lastmod>2012-08-01T17:20:20Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma03.jpg</loc>
+  <lastmod>2012-08-01T17:20:42Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma04.jpg</loc>
+  <lastmod>2012-08-01T17:20:32Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma05.jpg</loc>
+  <lastmod>2012-08-01T17:20:34Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma06.jpg</loc>
+  <lastmod>2012-08-01T17:20:35Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma07.jpg</loc>
+  <lastmod>2012-08-01T17:20:48Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma08.jpg</loc>
+  <lastmod>2012-08-01T17:20:49Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma09.jpg</loc>
+  <lastmod>2012-08-01T17:20:28Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma10.jpg</loc>
+  <lastmod>2012-08-01T17:20:46Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma11.jpg</loc>
+  <lastmod>2012-08-01T17:20:26Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma12.jpg</loc>
+  <lastmod>2012-08-01T17:20:53Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma13.jpg</loc>
+  <lastmod>2012-08-01T17:20:30Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma14.jpg</loc>
+  <lastmod>2012-08-01T17:20:51Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma15.jpg</loc>
+  <lastmod>2012-08-01T17:20:38Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma16.jpg</loc>
+  <lastmod>2012-08-01T17:20:20Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma17.jpg</loc>
+  <lastmod>2012-08-01T17:20:23Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma18.jpg</loc>
+  <lastmod>2012-08-01T17:20:38Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma19.jpg</loc>
+  <lastmod>2012-08-01T17:20:40Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma20.jpg</loc>
+  <lastmod>2012-08-01T17:20:22Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma21.jpg</loc>
+  <lastmod>2012-08-01T17:20:44Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/assets/imma/imma22.jpg</loc>
+  <lastmod>2012-08-01T17:20:21Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -275,23 +395,23 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blgn.mn/assets/style.css</loc>
-  <lastmod>2012-08-01T10:38:21Z</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://blgn.mn/campbell/</loc>
-  <lastmod>2012-08-01T10:56:23Z</lastmod>
+  <lastmod>2012-08-01T17:34:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/chris/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T17:34:50Z</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://blgn.mn/ciocci/</loc>
+  <lastmod>2012-08-01T20:13:22Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/countlessothers/</loc>
-  <lastmod>2012-08-01T10:56:21Z</lastmod>
+  <lastmod>2012-08-01T17:34:48Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -301,22 +421,22 @@
  </url>
  <url>
   <loc>http://blgn.mn/david/</loc>
-  <lastmod>2012-08-01T10:56:21Z</lastmod>
+  <lastmod>2012-08-01T19:43:27Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/dempsey/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T17:34:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/djk/</loc>
-  <lastmod>2012-08-01T10:56:23Z</lastmod>
+  <lastmod>2012-08-01T17:34:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/events/</loc>
-  <lastmod>2012-08-01T10:56:21Z</lastmod>
+  <lastmod>2012-08-01T17:53:56Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -326,37 +446,37 @@
  </url>
  <url>
   <loc>http://blgn.mn/fenn/</loc>
-  <lastmod>2012-08-01T10:56:20Z</lastmod>
+  <lastmod>2012-08-01T17:34:44Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/kuhlida/</loc>
-  <lastmod>2012-08-01T10:56:21Z</lastmod>
+  <lastmod>2012-08-01T17:34:48Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/liz/</loc>
-  <lastmod>2012-08-01T10:56:19Z</lastmod>
+  <lastmod>2012-08-01T17:34:52Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/luc/</loc>
-  <lastmod>2012-08-01T10:56:24Z</lastmod>
+  <lastmod>2012-08-01T17:34:51Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/matt/</loc>
-  <lastmod>2012-08-01T10:56:20Z</lastmod>
+  <lastmod>2012-08-01T17:34:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/monks/</loc>
-  <lastmod>2012-08-01T10:56:20Z</lastmod>
+  <lastmod>2012-08-01T17:34:44Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/noun/</loc>
-  <lastmod>2012-08-01T10:56:23Z</lastmod>
+  <lastmod>2012-08-01T17:34:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -366,42 +486,42 @@
  </url>
  <url>
   <loc>http://blgn.mn/owen/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T17:34:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/releases/</loc>
-  <lastmod>2012-08-01T10:56:23Z</lastmod>
+  <lastmod>2012-08-01T17:34:50Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/remy/</loc>
-  <lastmod>2012-08-01T10:56:24Z</lastmod>
+  <lastmod>2012-08-01T17:34:42Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/sam/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T17:34:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/scrub/</loc>
-  <lastmod>2012-08-01T10:56:19Z</lastmod>
+  <lastmod>2012-08-01T17:34:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/sophie/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T19:57:48Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/thezone/</loc>
-  <lastmod>2012-08-01T10:56:19Z</lastmod>
+  <lastmod>2012-08-01T17:34:43Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://blgn.mn/trucks/</loc>
-  <lastmod>2012-08-01T10:56:22Z</lastmod>
+  <lastmod>2012-08-01T17:34:49Z</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -411,7 +531,7 @@
  </url>
  <url>
   <loc>http://blgn.mn/videos/</loc>
-  <lastmod>2012-08-01T10:56:20Z</lastmod>
+  <lastmod>2012-08-01T19:40:27Z</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

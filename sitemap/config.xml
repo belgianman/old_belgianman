@@ -121,9 +121,9 @@
   <filter  action="drop"  type="wildcard"  pattern="*~"           />
 
   <!-- Exclude URLs within UNIX-style hidden files or directories       -->
-  <filter action="drop" type="regexp"   pattern="/\.[^/]*"     />
   <filter action="drop" type="wildcard"   pattern="*sitemap*"     />
-  <filter action="drop" type="wildcard"   pattern="*TODO*"     />
+  <filter action="drop" type="wildcard"   pattern="*css*"     />
+  <filter action="drop" type="wildcard"   pattern="*assets/galleria*"     />
   <filter action="drop" type="wildcard"   pattern="*README*"     />
   <filter action="drop" type="wildcard" pattern="*google*" />
   
