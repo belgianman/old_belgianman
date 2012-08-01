@@ -4,7 +4,9 @@ This is the website for Belgian Man Records.
 
 Belgian Man Records is a collective of artists based in lovely, historic Concord, MA.
 
-We record music, film videos, make art, and play shows
+We record music, film videos, make art, and play shows.
+
+Find us at http://blgn.mn
 
 ## todo
 
