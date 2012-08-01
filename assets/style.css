@@ -125,6 +125,10 @@ p {
 	border-bottom: 2px solid black;
 }
 
+.videotext {
+	height: 2em;
+}
+
 .about {
 	background-color: white;
 	color: black;
