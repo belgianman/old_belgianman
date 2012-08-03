@@ -19,5 +19,4 @@ Find us at http://blgn.mn
 
 ### ideas (yay future)
 
-* store page
 * switchable colurs
