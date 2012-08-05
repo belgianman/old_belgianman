@@ -20,7 +20,7 @@ body {
 }
 
 a {
-	font-weight: bold;
+	font-weight: 900;
 	text-decoration: none;
 	color: inherit;
 }
@@ -47,25 +47,23 @@ a {
 	margin-right: auto;
 }
 
-.nav {
+.nav a {
+	height: 30px;
 	margin-top: .5em;
 	margin-bottom: auto;
 	text-transform: uppercase;
-	font-family: "myriad-pro",sans-serif;
+	font-family: "soleil",sans-serif;
+	font-style: normal;
+	font-weight: 700;
 	font-style: normal;
 	font-size: 1.5em;
-	height: 20px;
 	color: black;
-}
-
-.nav a {
 	text-decoration: none;
-	font-weight: 400;
 	color: black;
 }
 
 .nav p {
-	margin-top: .5em;
+	margin-top: 1em;
 	margin-bottom: .5em;
 }
 
@@ -79,6 +77,10 @@ a {
 }
 
 .title {
+	font-family: "soleil",sans-serif;
+	text-transform: uppercase;
+	font-style: normal;
+	font-weight: 400;
 	font-size: 1.5em;
 	padding-left: .2em;
 	color: black;
@@ -86,6 +88,7 @@ a {
 
 .white {
 	margin-bottom: 1em;
+	text-align: center;
 	margin-top: 2em;
 	border-bottom: 2px solid black;
 }
@@ -98,7 +101,7 @@ p {
 .artist {
 	height: 8.5em;
 	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-bottom: 2em;
 	padding: 0;
 }
 
@@ -113,15 +116,18 @@ p {
 	background-size: cover;
 }
 
-.artistname {
+.artistname, .artstname a {
 	width: 100%;
-	font-size: 1em;
+	font-size: 1.2em;
 	text-align: center;
 	height: 1.5em;
-	padding-top: .5em;
+	padding-top: .6em;
 	color: black;
 	padding-left: .2em;
-	font-family: "myriad-pro",sans-serif;
+	text-transform: uppercase;
+	font-family: "soleil",sans-serif;
+	font-style: normal;
+	font-weight: 700;
 	border-bottom: 2px solid black;
 }
 
