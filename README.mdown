@@ -10,6 +10,7 @@ Find us at http://blgn.mn
 
 ### now
 
+* pimp the google-fu
 * hcard support on artist pages
 * hcalendar support on event/venue pages
 
