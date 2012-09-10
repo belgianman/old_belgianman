@@ -18,8 +18,8 @@
 
 ## clown.todo
 
-* my page
-	* album covers
+* my page @done
+	* album covers @done
 
 ## Ruttman.todo
 
