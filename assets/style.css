@@ -25,6 +25,11 @@ a {
 	color: inherit;
 }
 
+abbr {
+	border-bottom: .1em dotted;
+	cursor: help;
+}
+
 #header {
 	width: 100%;
 	height: 10em;
