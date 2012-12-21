@@ -18,6 +18,7 @@
 	</head>
 	<body>
 		<div id="header">
+			<a class="follow" href="http://tumblr.com/follow/belgianman">Follow</a>
 			<div class="logo">
 				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
 			</div>
@@ -35,13 +36,8 @@
 		
 		<div id="main">
 			<div class="container_12">
-				<div class="clear"></div>
-				<div class="grid_3 white"><div class="title">Belgian Man Records</div></div>
-				<div class="grid_3 white"><div class="title">SCRVB</div></div>
-				<div class="grid_4 white"><div class="title">So Sweet</div></div>
-				<div class="grid_2 white"><div class="title">Facebook</div></div>
-				
-				<div class="grid_3">
+				<div class="grid_2">
+					<div class="white title">Belgian Man Records</div>
 					<p>Belgian Man Records is a <a href="/artists">collective of artists</a> based in lovely, historic Concord, MA.</p>
 					<p>We record music, film videos, make art, and play shows.</p>
 					<p>All of our music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license, which means you&#8217;re free to share, remix, and re-use it non-commercially, provided you give attribution to the artist. If you&#8217;d like to use Belgian Man music commercially, email <a href="mailto:andrew@belgianman.com">Andrew</a>.</p>
@@ -50,19 +46,7 @@
 					</div>
 					<div class="clear"></div>
 					<p class="quote"><a href="http://www.youtube.com/watch?v=YodzjpvrtJQ">Representin' MA to the fullest.</a></p>
-				</div>
-
-				<div class="grid_3">
-					<a href="http://music.belgianman.com/album/scrvb"><img src="http://f0.bcbits.com/z/32/95/3295459907-1.jpg" alt="SCRVB, by SCRUB MC"/></a>
-					<p>SCRVB, by <a href="/scrub">SCRUB MC</a></p>
-					<p>SCRVB is the long-awaited debut mixtape by Belmont, MA and Burlington, VT-based rapper and producer Judd Mitchell, AKA <a href="/scrub">Scrub MC</a>. </p>
-				</div>
-				<div class="grid_4">
-					<iframe src="http://player.vimeo.com/video/52829589?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;color=ffffff" width="100%" height="340" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-					<p>So Sweet was directed by <a href="/david">David Yanofsky</a> for <a href="/kuhlida">Kuh-Lida</a>. The song features Faith Harding, who releases her own music on <a href="/stereocure">Stereocure</a> as <a href="http://stereocure.com/noveltydaughter">Novelty Daughter</a>.</p>
-					<p><a href="/david">David</a> is an artist based in Brooklyn, New York, and a founding member of Belgian Man Records. This is his fourth music video for Belgian Man, and his first for <a href="/kuhlida">Kuh Lida</a></p>
-				</div>
-				<div class="grid_2">
+					<div class="white title">Facebook</div>
 					<div id="fb-root"></div>
 					<script>
 						(function(d, s, id) {
@@ -76,6 +60,56 @@
 					<div class="fb-like-box" data-href="http://facebook.com/belgianman" data-width="250" data-show-faces="false" data-stream="false" data-header="true"></div>
 				</div>
 
+				<?php
+				    echo "";
+				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release"; //get xml file
+				    $xml = simplexml_load_file($request_url); //load it
+				    $title = $xml->posts->post->{'regular-title'}; //load post title into $title
+				    $post = $xml->posts->post->{'regular-body'}; //load post body into $post
+				    $id = $xml->posts->post['id']; //load url of blog post into $link
+				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
+				    echo // spit that baby out with some stylish html
+				        '<div class="grid_3">
+				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="post">'.$post.'</div>
+				        </div>
+				    '; 
+				    
+				    echo "";
+				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release&start=1&chrono=1&num=1"; //get xml file
+				    $xml = simplexml_load_file($request_url); //load it
+				    $title = $xml->posts->post->{'regular-title'}; //load post title into $title
+				    $post = $xml->posts->post->{'regular-body'}; //load post body into $post
+				    $link = $xml->posts->post['url']; //load url of blog post into $link
+				    $id = $xml->posts->post['id']; //load url of blog post into $link
+				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
+				    echo // spit that baby out with some stylish html
+				        '<div class="grid_3">
+				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="post">'.$post.'</div>
+				        </div>
+				    '; 
+
+				    echo "";
+				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=video&type=video"; //get xml file
+				    $xml = simplexml_load_file($request_url); //load it
+				    $video = $xml->posts->post->{'video-source'}; //load post title into $title
+				    $videoid = substr($video,18,26);
+				    $post = $xml->posts->post->{'video-caption'}; //load post body into $post
+				    $link = $xml->posts->post['url']; //load url of blog post into $link
+				    $id = $xml->posts->post['id']; //load url of blog post into $link
+				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
+				    echo // spit that baby out with some stylish html
+				        '<div class="grid_4">
+				            <div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="post">
+				            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" width="100%" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+				            	'.$post.'
+				            </div>
+				        </div>
+				    '; 
+				?>
+				
 				<div class="clear"></div>
 			</div>
 			<div class="clear"></div>

@@ -155,6 +155,80 @@ img {
 	margin: .1em;
 }
 
+.reblog img {
+	width: 16px;
+	height: 16px;
+	padding: auto;
+	float: right;
+}
+
+.follow {
+	-webkit-border-image: none;
+	-webkit-font-smoothing: antialiased;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-duration: 0.10000000149011612s;
+	-webkit-transition-property: padding;
+	-webkit-transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+	-webkit-user-select: none;
+	background-color: rgba(0, 0, 0, 0.380392);
+	border-bottom-color: rgba(0, 0, 0, 0.180392);
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-left-color: rgba(0, 0, 0, 0.180392);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-right-color: rgba(0, 0, 0, 0.180392);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-top-color: rgba(0, 0, 0, 0.180392);
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	box-sizing: border-box;
+	color: white;
+	cursor: pointer;
+	display: block;
+	float: left;
+	font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	height: 20px;
+	right: 5px;
+	top: 5px;
+	line-height: 18px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 5px;
+	outline-color: white;
+	outline-style: none;
+	outline-width: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	padding-right: 5px;
+	padding-top: 0px;
+	position: relative;
+	text-decoration: none;
+	text-overflow: ellipsis;
+	text-shadow: rgba(0, 0, 0, 0.0784314) 1px 1px 0px;
+	visibility: visible;
+	white-space: nowrap;
+	width: 64px;
+	position:absolute;
+	background-image: url('/assets/follow.png');
+	background-repeat: no-repeat;
+	background-size: 12px;
+	background-origin: padding-box;
+	background-position: 3px;
+}
+
 #bottom {
 	text-align: right;
 	padding-top: 1em;
@@ -213,6 +287,21 @@ soundcloud {
 .gallery_super {
 	width: 100%;
 }
+
+ol.tumblr_posts {
+
+    list-style:none;
+}
+
+.tumblr_title {
+	display: none;
+}
+
+
+
+
+
+
 
 /*
 	Variable Grid System (Fluid Version).
