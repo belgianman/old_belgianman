@@ -30,23 +30,7 @@
 					<p><a href="/videos">Videos</a></p>
 					<p><a href="/events">Events</a></p>
 				</div>
-				<div class="clear"></div>
-			</div>
-		</div>
-		
-		<div id="main">
-			<div class="container_12">
-				<div class="grid_2">
-					<div class="white title">Belgian Man Records</div>
-					<p>Belgian Man Records is a <a href="/artists">collective of artists</a> based in lovely, historic Concord, MA.</p>
-					<p>We record music, film videos, make art, and play shows.</p>
-					<p>All of our music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license, which means you&#8217;re free to share, remix, and re-use it non-commercially, provided you give attribution to the artist. If you&#8217;d like to use Belgian Man music commercially, email <a href="mailto:andrew@belgianman.com">Andrew</a>.</p>
-					<div class="grid_4 prefix_4">
-						<img src="/assets/concord.png" title="Concord, MA Town Seal" />
-					</div>
-					<div class="clear"></div>
-					<p class="quote"><a href="http://www.youtube.com/watch?v=YodzjpvrtJQ">Representin' MA to the fullest.</a></p>
-					<div class="white title">Facebook</div>
+				<div class="grid_2 prefix_4">
 					<div id="fb-root"></div>
 					<script>
 						(function(d, s, id) {
@@ -58,6 +42,37 @@
 						}(document, 'script', 'facebook-jssdk'));
 					</script>
 					<div class="fb-like-box" data-href="http://facebook.com/belgianman" data-width="250" data-show-faces="false" data-stream="false" data-header="true"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		
+		<div id="main">
+			<div class="container_12">
+				<div class="grid_3">
+					<?php
+					    echo "";
+					    $request_url = "http://belgianman.tumblr.com/api/read?tagged=news"; //get xml file
+					    $xml = simplexml_load_file($request_url); //load it
+					    $title = $xml->posts->post->{'regular-title'}; //load post title into $title
+					    $post = $xml->posts->post->{'regular-body'}; //load post body into $post
+					    $id = $xml->posts->post['id']; //load url of blog post into $link
+					    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
+					    echo // spit that baby out with some stylish html
+					        '<div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+					            <div class="post">'.$post.'</div>
+					    '; 
+				    ?>
+				    <div class="clear"></div>
+					<div class="white title">Belgian Man Records</div>
+					<p>Belgian Man Records is a <a href="/artists">collective of artists</a> that began in lovely, historic Concord, MA, but is currently based in Chicago, IL.</p>
+					<p>We record music, film videos, make art, and play shows.</p>
+					<p>All of our music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license, which means you&#8217;re free to share, remix, and re-use it non-commercially, provided you give attribution to the artist. If you&#8217;d like to use Belgian Man music commercially, email <a href="mailto:andrew@belgianman.com">Andrew</a>.</p>
+					<div class="grid_4 prefix_4">
+						<img src="/assets/concord.png" title="Concord, MA Town Seal" />
+					</div>
+					<div class="clear"></div>
+					<p class="quote"><a href="http://www.youtube.com/watch?v=YodzjpvrtJQ">Representin' MA to the fullest.</a></p>
 				</div>
 
 				<?php
@@ -100,10 +115,10 @@
 				    $id = $xml->posts->post['id']; //load url of blog post into $link
 				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 				    echo // spit that baby out with some stylish html
-				        '<div class="grid_4">
+				        '<div class="grid_3">
 				            <div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
 				            <div class="post">
-				            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" width="100%" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+				            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 				            	'.$post.'
 				            </div>
 				        </div>
