@@ -8,16 +8,6 @@ Find us at http://blgn.mn
 
 ## todo
 
-### now
-
 * pimp the google-fu
 * hcard support on artist pages
 * hcalendar support on event/venue pages
-
-### waiting
-
-* dj wars / rmb page @ remy for djwars 2
-
-### ideas (yay future)
-
-* switchable colurs
