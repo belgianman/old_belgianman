@@ -59,7 +59,7 @@
 					    $id = $xml->posts->post['id']; //load url of blog post into $link
 					    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 					    echo // spit that baby out with some stylish html
-					        '<div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+					        '<div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
 					            <div class="post">'.$post.'</div>
 					    '; 
 				    ?>
@@ -69,7 +69,7 @@
 					<p>We record music, film videos, make art, and play shows.</p>
 					<p>All of our music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license, which means you&#8217;re free to share, remix, and re-use it non-commercially, provided you give attribution to the artist. If you&#8217;d like to use Belgian Man music commercially, email <a href="mailto:andrew@belgianman.com">Andrew</a>.</p>
 					<div class="grid_4 prefix_4">
-						<img src="/assets/concord.png" title="Concord, MA Town Seal" />
+						<img src="/assets/concord.png" alt="Concord, MA Town Seal" />
 					</div>
 					<div class="clear"></div>
 					<p class="quote"><a href="http://www.youtube.com/watch?v=YodzjpvrtJQ">Representin' MA to the fullest.</a></p>
@@ -85,7 +85,7 @@
 				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 				    echo // spit that baby out with some stylish html
 				        '<div class="grid_3">
-				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
 				            <div class="post">'.$post.'</div>
 				        </div>
 				    '; 
@@ -100,7 +100,7 @@
 				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 				    echo // spit that baby out with some stylish html
 				        '<div class="grid_3">
-				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="white title">'.$title.'<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
 				            <div class="post">'.$post.'</div>
 				        </div>
 				    '; 
@@ -116,7 +116,7 @@
 				    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 				    echo // spit that baby out with some stylish html
 				        '<div class="grid_3">
-				            <div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" title="Reblog on Tumblr"/></a></div>
+				            <div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
 				            <div class="post">
 				            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 				            	'.$post.'
@@ -139,6 +139,7 @@
 					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
 					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2012 Belgian Man Records.</p>
 				</div>
+			</div>
 		</div>
 	</body>
 </html>
