@@ -15,6 +15,7 @@
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
+		<meta name="description" content="Belgian Man Records is a collective of innovative artists, working together to release awesome music.">
 		<meta property="og:title" content="Belgian Man Records">
 		<meta property="og:site_name" content="Belgian Man Records">
 		<meta property="og:type" content="website">
@@ -39,8 +40,7 @@
 					<p><a href="/videos">Videos</a></p>
 					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
 				</div>
-				<!--
-<div class="grid_2 prefix_4">
+				<!--<div class="grid_2 prefix_4">
 					<div id="fb-root"></div>
 					<script>
 						(function(d, s, id) {
@@ -53,8 +53,7 @@
 					</script>
 					<div class="fb-like-box" data-href="http://facebook.com/belgianman" data-width="250" data-show-faces="false" data-stream="false" data-header="true"></div>
 				</div>
-				<div class="clear"></div>
--->
+				<div class="clear"></div>-->
 			</div>
 		</div>
 		
