@@ -25,8 +25,12 @@ a {
 	color: inherit;
 }
 
-a:hover, .nav a:hover {
+a:hover, .nav a:hover, #current {
 	font-style: italic;
+}
+
+#current a:hover {
+	font-style: normal,
 }
 
 a:focus, a:active, .nav a:focus, .nav a:active {
