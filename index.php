@@ -15,6 +15,15 @@
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
+		<meta property="og:title" content="Belgian Man Records">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://belgianman.com/">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Belgian Man Records is a collective of innovative artists, working together to release awesome music.">
 	</head>
 	<body>
 		<div id="header">

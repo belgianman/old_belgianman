@@ -25,6 +25,18 @@ a {
 	color: inherit;
 }
 
+a:hover, .nav a:hover {
+	font-style: italic;
+}
+
+a:focus, a:active, .nav a:focus, .nav a:active {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #440000;
+}
+
 abbr {
 	border-bottom: .1em dotted;
 	cursor: help;

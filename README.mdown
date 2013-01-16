@@ -11,8 +11,5 @@ Find us at http://blgn.mn
 * pimp the google+facebook-fu
 	* add metadata incl open graph tags (ogp.me)
 	* add descriptions to all pages
-	* fix dupe titles on artits / videos / releases / events
-* add link states to stylesheet
-* add h1 to each page
 * hcard support on artist pages
 * hcalendar support on event/venue pages
