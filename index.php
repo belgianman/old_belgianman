@@ -28,9 +28,10 @@
 					<p><a href="/releases">Releases</a></p>
 					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
 					<p><a href="/videos">Videos</a></p>
-					<p><a href="/events">Events</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
 				</div>
-				<div class="grid_2 prefix_4">
+				<!--
+<div class="grid_2 prefix_4">
 					<div id="fb-root"></div>
 					<script>
 						(function(d, s, id) {
@@ -44,10 +45,12 @@
 					<div class="fb-like-box" data-href="http://facebook.com/belgianman" data-width="250" data-show-faces="false" data-stream="false" data-header="true"></div>
 				</div>
 				<div class="clear"></div>
+-->
 			</div>
 		</div>
 		
 		<div id="main">
+			<h1>Belgian Man Records</h1>
 			<div class="container_12">
 				<div class="grid_3">
 					<?php

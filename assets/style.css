@@ -91,6 +91,11 @@ abbr {
 	color: black;
 }
 
+h1 {
+	text-align: center;
+	display: none;
+}
+
 .white {
 	margin-bottom: 1em;
 	text-align: center;
