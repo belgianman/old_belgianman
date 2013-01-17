@@ -148,7 +148,7 @@
 				</div>
 				<div class="space">
 					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
-					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2012 Belgian Man Records.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2012 <a href="http://monks.co">Andrew Monks</a>.</p>
 				</div>
 			</div>
 		</div>

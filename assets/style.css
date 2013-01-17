@@ -37,7 +37,7 @@ a:focus, a:active, .nav a:focus, .nav a:active {
 	text-decoration: underline;
 }
 
-a:visited {
+#main a:visited {
 	color: #440000;
 }
 
