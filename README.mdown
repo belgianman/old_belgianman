@@ -8,7 +8,5 @@ Find us at http://blgn.mn
 
 ## todo
 
-* pimp the google+facebook-fu
-	* add descriptions to all pages
 * hcard support on artist pages
 * hcalendar support on event/venue pages
