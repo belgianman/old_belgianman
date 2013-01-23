@@ -51,6 +51,7 @@
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
+		<meta name="msvalidate.01" content="BE5E85044D732A5C38594A33E7FF17DB" />
 		<meta name="description" content="Belgian Man Records is a collective of innovative artists, working together to release awesome music.">
 		<meta property="og:title" content="Belgian Man Records">
 		<meta property="og:site_name" content="Belgian Man Records">
