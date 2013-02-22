@@ -43,6 +43,9 @@
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		<script type="text/javascript">
 			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 			_gaq.push(['_setAccount', 'UA-7421722-2']);
 			_gaq.push(['_trackPageview']);
 			(function() {
@@ -116,6 +119,7 @@
 					<p>Belgian Man Records is a <a href="/artists">collective of artists</a> that began in lovely, historic Concord, MA, but is currently based in Chicago, IL.</p>
 					<p>We record music, film videos, make art, and play shows.</p>
 					<p>All of our music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license, which means you&#8217;re free to share, remix, and re-use it non-commercially, provided you give attribution to the artist. If you&#8217;d like to use Belgian Man music commercially, email <a href="mailto:andrew@belgianman.com">Andrew</a>.</p>
+					<p>If you&#8217;re trying to write about Belgian Man, you should probably <a href="mailto:catherine@belgianman.com">email</a> the fabulous <a href="/catherine">Catherine Pears</a>.
 					<div class="grid_4 prefix_4">
 						<img src="/assets/concord.png" alt="Concord, MA Town Seal" />
 					</div>
@@ -139,7 +143,7 @@
 				    '; 
 				    
 				    echo "";
-				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release&start=1&chrono=1&num=1"; //get xml file
+				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release&start=0&chrono=1&num=1"; //get xml file
 				    $xml = simplexml_load_file($request_url); //load it
 				    $title = $xml->posts->post->{'regular-title'}; //load post title into $title
 				    $post = $xml->posts->post->{'regular-body'}; //load post body into $post
@@ -181,11 +185,11 @@
 		<div id="bottom">
 			<div class="container_12">
 				<div class="space">
-					<p>312 S. Michigan Avenue | Suite 1032 #B928 | Chicago, IL 60604</p>
+					<p>332 S. Michigan Avenue | Suite 1032 #B928 | Chicago, IL 60604</p>
 				</div>
 				<div class="space">
 					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
-					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2012 <a href="http://monks.co">Andrew Monks</a>.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
 				</div>
 			</div>
 		</div>
