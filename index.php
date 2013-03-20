@@ -143,7 +143,7 @@
 				    '; 
 				    
 				    echo "";
-				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release&start=0&chrono=1&num=1"; //get xml file
+				    $request_url = "http://belgianman.tumblr.com/api/read?tagged=release&start=1&chrono=0&num=1"; //get xml file
 				    $xml = simplexml_load_file($request_url); //load it
 				    $title = $xml->posts->post->{'regular-title'}; //load post title into $title
 				    $post = $xml->posts->post->{'regular-body'}; //load post body into $post
