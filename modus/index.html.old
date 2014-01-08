@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	
+<!--      _____                   _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\____\                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::|   |               /:::/    /               /::::\    \       
+      /:::::|   |             /::::::::\    \           /:::::|   |              /:::/    /               /::::::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /::::::|   |             /:::/    /               /:::/\:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/|::|   |            /:::/____/               /:::/__\:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/ |::|   |           /::::\    \               \:::\   \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/  |::|   | _____    /::::::\____\________    ___\:::\   \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \  /:::/\:::::::::::\    \  /\   \:::\   \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\/:::/  |:::::::::::\____\/::\   \:::\   \:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /\::/   |::|~~~|~~~~~     \:::\   \:::\   \::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \/____/ |::| /:::/    /  \/____|::|   |           \:::\   \:::\   \/____/ 
+             /:::/    /     \:::\    /:::/    /            |::|/:::/    /         |::|   |            \:::\   \:::\    \     
+            /:::/    /       \:::\__/:::/    /             |::::::/    /          |::|   |             \:::\   \:::\____\    
+           /:::/    /         \::::::::/    /              |:::::/    /           |::|   |              \:::\  /:::/    /    
+          /:::/    /           \::::::/    /               |::::/    /            |::|   |               \:::\/:::/    /     
+         /:::/    /             \::::/    /                /:::/    /             |::|   |                \::::::/    /      
+        /:::/    /               \::/____/                /:::/    /              \::|   |                 \::::/    /       
+        \::/    /                 ~~                      \::/    /                \:|   |                  \::/    /        
+         \/____/                                           \/____/                  \|___|                   \/____/         
+                                                                                                                           
+                                                                                                                           
+                                                                    This website was lovingly typed by Andrew Monks
+                                                                                                    http://monks.co
+                                                                                                         a@monks.co  -->
+
+
+
+
+<!-- 	meta -->
+		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<title>Modus</title>
+		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+			_gaq.push(['_setAccount', 'UA-7421722-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<meta property="og:title" content="Modus">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="musician">
+		<meta property="og:url" content="http://belgianman.com/modus">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Sam Horn is an electronic music producer/video artist out of Los Angeles. Music is his method, Modus is his name. The robot loves you.">
+		<meta name="description" content="Sam Horn is an electronic music producer/video artist out of Los Angeles. Music is his method, Modus is his name. The robot loves you.">		
+	</head>
+	<body>
+		<div id="header">
+			<div class="logo">
+				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
+			</div>
+			<div class="container_12">
+				<div class="grid_5 nav">
+					<p><a href="/artists">Artists</a></p>
+					<p><a href="/releases">Releases</a></p>
+					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
+					<p><a href="/videos">Videos</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="main">
+			<h1>Modus</h1>
+			<div class="container_12">
+				<div class="clear"></div>
+				<div class="grid_3 white"><span class="title">Modus</span></div>
+				<div class="grid_5 white"><span class="title">Mmhm</span></div>
+				<div class="grid_2 white"><span class="title">Bedroom Classics Vol. 1</span></div>
+				<div class="grid_2 white"><span class="title">Soundcloud</span></div>
+				<div class="clear"></div>
+				<div class="grid_3">
+					<p>Sam Horn is an electronic music producer/video artist out of Los Angeles. Music is his method, Modus is his name. The robot loves you.</p>
+					<img src="modus.jpg" alt="Sam Von Horn" />
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/mmhm"><img src="http://media.tumblr.com/e2158547889fc77f693bd78fec0e72ac/tumblr_inline_mkwgqcch1Y1qz4rgp.jpg" alt="Mmhm" /></a>
+					<p>mmhm is Modus's inaugural Belgian Man single, with visuals by <a href="http://belgianman.com/monks">Andrew Monks</a>.</p>
+				</div>
+				<div class="grid_3">
+					<p class="vimeo"><iframe src="http://player.vimeo.com/video/63618711" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/bedroom-classics-vol-1"><img src="http://f0.bcbits.com/z/28/56/2856308708-1.jpg" alt="Bedroom Classics Vol. 1" /></a>
+					<p>Modus contributed the track Face Up to the Bedroom Classics Vol. 1 compilation.</p>
+				</div>
+				<div class="grid_2">
+					<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F1257046&show_artwork=true"></iframe>
+				</div>			
+				<div class="clear"></div>
+			</div>
+
+		</div>
+		<div class="clear"></div>
+		<div id="bottom">
+			<div class="container_12">
+				<div class="space">
+					<p><a href="http://greeenha.us">GREEENHAU$</a> | 3316 N. Halsted Street, 3rd Floor | Chicago, IL 60657</p>
+				</div>
+				<div class="space">
+					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

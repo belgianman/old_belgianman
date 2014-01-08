@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	
+<!--      _____                   _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\____\                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::|   |               /:::/    /               /::::\    \       
+      /:::::|   |             /::::::::\    \           /:::::|   |              /:::/    /               /::::::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /::::::|   |             /:::/    /               /:::/\:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/|::|   |            /:::/____/               /:::/__\:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/ |::|   |           /::::\    \               \:::\   \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/  |::|   | _____    /::::::\____\________    ___\:::\   \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \  /:::/\:::::::::::\    \  /\   \:::\   \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\/:::/  |:::::::::::\____\/::\   \:::\   \:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /\::/   |::|~~~|~~~~~     \:::\   \:::\   \::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \/____/ |::| /:::/    /  \/____|::|   |           \:::\   \:::\   \/____/ 
+             /:::/    /     \:::\    /:::/    /            |::|/:::/    /         |::|   |            \:::\   \:::\    \     
+            /:::/    /       \:::\__/:::/    /             |::::::/    /          |::|   |             \:::\   \:::\____\    
+           /:::/    /         \::::::::/    /              |:::::/    /           |::|   |              \:::\  /:::/    /    
+          /:::/    /           \::::::/    /               |::::/    /            |::|   |               \:::\/:::/    /     
+         /:::/    /             \::::/    /                /:::/    /             |::|   |                \::::::/    /      
+        /:::/    /               \::/____/                /:::/    /              \::|   |                 \::::/    /       
+        \::/    /                 ~~                      \::/    /                \:|   |                  \::/    /        
+         \/____/                                           \/____/                  \|___|                   \/____/         
+                                                                                                                           
+                                                                                                                           
+                                                                    This website was lovingly typed by Andrew Monks
+                                                                                                    http://monks.co
+                                                                                                         a@monks.co  -->
+
+
+
+
+<!-- 	meta -->
+		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<title>Fenn Macon</title>
+		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+			_gaq.push(['_setAccount', 'UA-7421722-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<meta property="og:title" content="Fenn Macon">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="musician">
+		<meta property="og:url" content="http://belgianman.com/fenn">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Fenn Macon is a guitarist, songwriter, and electronic musician based out of Worcester and historic North Andover, MA. He releases music as RTFM.">
+		<meta name="description" content="Fenn Macon is a guitarist, songwriter, and electronic musician based out of Worcester and historic North Andover, MA. He releases music as RTFM.">		
+	</head>
+	<body>
+		<div id="header">
+			<div class="logo">
+				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
+			</div>
+			<div class="container_12">
+				<div class="grid_5 nav">
+					<p><a href="/artists">Artists</a></p>
+					<p><a href="/releases">Releases</a></p>
+					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
+					<p><a href="/videos">Videos</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="main">
+			<h1>Fenn Macon</h1>
+			<div class="container_12">
+				<div class="clear"></div>
+				<div class="grid_3 white "><span class="title">Fenn Macon</span></div>
+				<div class="grid_3 white"><span class="title">Video</span></div>
+				<div class="grid_4 white"><span class="title">Releases</span></div>
+				<div class="grid_2 white"><span class="title">Features</span></div>
+				<div class="clear"></div>
+				<div class="grid_6">
+					<div class="grid_6 alpha">
+						<img src="/assets/artists/fennpage.jpg" alt="Fenn Macon" />
+						<p>Fenn Macon is a guitarist, songwriter, and electronic musician based out of Worcester and historic North Andover, MA.</p>
+						<p>Fenn is currently working on a new album of original music.</p>
+					</div>
+					<div class="grid_6 omega">
+						<p class="vimeo"><iframe src="http://player.vimeo.com/video/34626481?byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+						<p>RTFM live at <a href="/sophie">Sophie&#8217;s Basement</a>, New Years Eve 2011</p>
+					</div>
+					<div class="grid_12">
+						<div class="white title">Soundcloud</div>
+						<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F4825818&show_artwork=true"></iframe>
+					</div>
+				</div>
+				<div class="grid_2 ">
+					<a href="http://music.belgianman.com/album/how-you-feel-fighting-temptation-all-the-time"><img src="http://f0.bcbits.com/z/27/71/277115517-1.jpg" alt="How You Feel Fighting Temptation All The Time" /></a>
+					<p>How You Feel Fighting Temptation All The Time is an EP that attempts to distill feelings of longing, hope, and fear into synth tones, vocal samples, and dense rhythms.</p>
+					<p>The three songs form an arc that traces a long distance relationship.</p>
+					<a href="http://music.belgianman.com/album/cowards-ghosts"><img src="http://f0.bcbits.com/z/34/56/3456384835-1.jpg" alt="Cowards & Ghosts" /></a>
+					<p>Cowards &amp; Ghosts is an EP inspired by Chris Onstad&#8217;s <a href="http://achewood.com/">Achewood</a> comics.</p>
+					<a href="http://music.belgianman.com/album/autumn-mix"><img src="http://f0.bcbits.com/z/94/49/9449528-1.jpg" alt="Autumn Mix" /></a>
+					<p>A quick mix, made half while learning Ableton and half using Logic.</p>
+				</div>
+				<div class="grid_2 ">
+					<a href="http://music.belgianman.com/album/gilit"><img src="http://f0.bcbits.com/z/37/20/3720656305-1.png" alt="△GILIT▽, by RTFM" /></a>
+					<p>&#9651;GILIT&#9661; is a six-track release. The tracks on &#9651;GILIT&#9661; are based around samples from the recording sessions from <a href="/liz">Kittenmildew</a>&#8217;s debut album, <a href="http://music.belgianman.com/album/liz-wood">Liz Wood</a>.</p>
+					<a href="http://music.belgianman.com/album/enemies-closer"><img src="http://f0.bcbits.com/z/40/91/4091902927-1.jpg" alt="Enemies, Closer!" /></a>
+					<p>Recorded over the course of 2011, Enemies, Closer! is RTFM&#8217;s debut album. It was inspired by hazy freshman dorms, motivation, and old flames.</p>
+					<a href="http://music.belgianman.com/album/inhalexile"><img src="http://f0.bcbits.com/z/41/39/4139733103-1.jpg" alt="inhalexile" /></a>
+					<p>inhalexile is RTFM&#8217;s debut EP, released in June 2011.</p>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/words"><img src="http://f0.bcbits.com/z/21/71/2171251572-1.jpg" alt="Words" /></a>
+					<p>Words, by <a href="/noun">i am (noun)</a> featured a remix by RTFM.</p>
+					<a href="http://music.belgianman.com/album/pianophant"><img src="http://f0.bcbits.com/z/35/19/3519730179-1.jpg" alt="Pianophant" /></a>
+					<p>Pianophant, by <a href="/leaftype">Christopher Knollmeyer</a>, also features an RTFM remix.</p>
+				</div>
+				<div class="clear"></div>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<div id="bottom">
+			<div class="container_12">
+				<div class="space">
+					<p><a href="http://greeenha.us">GREEENHAU$</a> | 3316 N. Halsted Street, 3rd Floor | Chicago, IL 60657</p>
+				</div>
+				<div class="space">
+					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

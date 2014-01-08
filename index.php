@@ -181,15 +181,27 @@
 					    $xml = simplexml_load_file($request_url); //load it
 					    $video = $xml->posts->post->{'video-source'}; //load post title into $title
 					    $videoid = substr($video,18,26);
-					    $post = $xml->posts->post->{'video-caption'}; //load post body into $post
 					    $link = $xml->posts->post['url']; //load url of blog post into $link
 					    $id = $xml->posts->post['id']; //load url of blog post into $link
 					    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
 					    echo // spit that baby out with some stylish html
 					        	'<div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
-					            <div class="post">
-					            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" width="100%" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-					            	'.$post.'
+					            <div class="post vimeo">
+					            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					            </div>
+					    '; 
+
+					    $request_url = "http://belgianman.tumblr.com/api/read?tagged=video&type=video&start=1&chrono=0&num=1"; //get xml file
+					    $xml = simplexml_load_file($request_url); //load it
+					    $video = $xml->posts->post->{'video-source'}; //load post title into $title
+					    $videoid = substr($video,18,26);
+					    $link = $xml->posts->post['url']; //load url of blog post into $link
+					    $id = $xml->posts->post['id']; //load url of blog post into $link
+					    $key = $xml->posts->post['reblog-key']; //load url of blog post into $link
+					    echo // spit that baby out with some stylish html
+					        	'<div class="white title">Video<a href="http://www.tumblr.com/reblog/'.$id.'/'.$key.'" class="reblog"><img src="/assets/reblog.png" alt="Reblog on Tumblr"/></a></div>
+					            <div class="post vimeo">
+					            	<iframe src="http://player.vimeo.com/video/'.$videoid.'" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 					            </div>
 					        </div>
 					    '; 

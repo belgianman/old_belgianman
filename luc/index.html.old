@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	
+<!--      _____                   _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\____\                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::|   |               /:::/    /               /::::\    \       
+      /:::::|   |             /::::::::\    \           /:::::|   |              /:::/    /               /::::::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /::::::|   |             /:::/    /               /:::/\:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/|::|   |            /:::/____/               /:::/__\:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/ |::|   |           /::::\    \               \:::\   \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/  |::|   | _____    /::::::\____\________    ___\:::\   \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \  /:::/\:::::::::::\    \  /\   \:::\   \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\/:::/  |:::::::::::\____\/::\   \:::\   \:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /\::/   |::|~~~|~~~~~     \:::\   \:::\   \::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \/____/ |::| /:::/    /  \/____|::|   |           \:::\   \:::\   \/____/ 
+             /:::/    /     \:::\    /:::/    /            |::|/:::/    /         |::|   |            \:::\   \:::\    \     
+            /:::/    /       \:::\__/:::/    /             |::::::/    /          |::|   |             \:::\   \:::\____\    
+           /:::/    /         \::::::::/    /              |:::::/    /           |::|   |              \:::\  /:::/    /    
+          /:::/    /           \::::::/    /               |::::/    /            |::|   |               \:::\/:::/    /     
+         /:::/    /             \::::/    /                /:::/    /             |::|   |                \::::::/    /      
+        /:::/    /               \::/____/                /:::/    /              \::|   |                 \::::/    /       
+        \::/    /                 ~~                      \::/    /                \:|   |                  \::/    /        
+         \/____/                                           \/____/                  \|___|                   \/____/         
+                                                                                                                           
+                                                                                                                           
+                                                                    This website was lovingly typed by Andrew Monks
+                                                                                                    http://monks.co
+                                                                                                         a@monks.co  -->
+
+
+
+
+<!-- 	meta -->
+		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<title>Luc Lacerte</title>
+		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+			_gaq.push(['_setAccount', 'UA-7421722-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<meta property="og:title" content="Luc Lacerte">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="musician">
+		<meta property="og:url" content="http://belgianman.com/luc">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Luc Lacerte is a musician, DJ, and mastering engineer from Providence, RI. He makes shit sound money.">
+		<meta name="description" content="Luc Lacerte is a musician, DJ, and mastering engineer from Providence, RI. He makes shit sound money.">		
+	</head>
+	<body>
+		<div id="header">
+			<div class="logo">
+				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
+			</div>
+			<div class="container_12">
+				<div class="grid_5 nav">
+					<p><a href="/artists">Artists</a></p>
+					<p><a href="/releases">Releases</a></p>
+					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
+					<p><a href="/videos">Videos</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="main">
+			<h1>Luc Lacerte</h1>
+			<div class="container_12">
+				<div class="clear"></div>
+				<div class="grid_4 white "><span class="title">Luc Lacerte</span></div>
+				<div class="grid_4 white "><span class="title">DJ Wars</span></div>
+				<div class="grid_4 white"><span class="title">Mastering</span></div>
+				<div class="clear"></div>
+				
+				<div class="grid_4">
+					<img src="/assets/artists/lucpage.jpg" alt="Luc Lacerte" />
+					<p>Luc Lacerte is a musician, DJ, and mastering engineer from Providence, RI. He makes shit sound money.</p>
+					<p>Luc and fellow Providence, RI DJ <a href="/remy">Remy Steele</a> make up <a href="/djwars">dj wars</a>. They&#8217;re alternating back and forth creating heavy electro dubstep mixes, and their first four have been released.</p>
+					<p>Luc mastered <a href="/liz">Liz Wood</a>&#8217;s debut album, Liz Wood, <a href="/leaftype">Christopher Knollmeyer</a>&#8217;s double-album Squares &amp; Spheres, and <a href="/abbott">RYV</a>&#8217;s solo debut, REDYELLOWVIOLET.</p>
+					</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/dj-wars-1-4"><img src="http://f0.bcbits.com/z/26/39/2639682034-1.png" alt="DJ Wars 1-4" /></a>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/dj-wars-5-8"><img src="http://f0.bcbits.com/z/41/16/4116400311-1.jpg" alt="DJ Wars 5-8" /></a>
+				</div>			
+				<div class="grid_2">
+					<p><a href="http://music.belgianman.com/album/squares"><img src="http://f0.bcbits.com/z/99/74/997406212-1.jpg" alt="Squares" /></a></p>
+					<p><a href="http://stereocure.bandcamp.com/album/spheres"><img src="http://f0.bcbits.com/z/14/49/144966458-1.jpg" alt="Spheres" /></a></p>
+				</div>
+				<div class="grid_2">
+					<p><a href="http://music.belgianman.com/album/redyellowviolet"><img src="http://f0.bcbits.com/z/90/33/903396626-1.jpg" alt="REDYELLOWVIOLET" /></a></p>
+					<p><a href="http://music.belgianman.com/album/liz-wood"><img src="http://f0.bcbits.com/z/42/30/4230395842-1.jpg" alt="Liz Wood" /></a></p>
+				</div>
+				<div class="clear"></div>
+				<div class="grid_12">
+					<div class="title white">Soundcloud</div>
+					<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F9328106&show_artwork=true"></iframe>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		</div>
+		<div class="clear"></div>
+		<div id="bottom">
+			<div class="container_12">
+				<div class="space">
+					<p><a href="http://greeenha.us">GREEENHAU$</a> | 3316 N. Halsted Street, 3rd Floor | Chicago, IL 60657</p>
+				</div>
+				<div class="space">
+					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

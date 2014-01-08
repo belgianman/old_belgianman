@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	
+<!--      _____                   _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\____\                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::|   |               /:::/    /               /::::\    \       
+      /:::::|   |             /::::::::\    \           /:::::|   |              /:::/    /               /::::::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /::::::|   |             /:::/    /               /:::/\:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/|::|   |            /:::/____/               /:::/__\:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/ |::|   |           /::::\    \               \:::\   \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/  |::|   | _____    /::::::\____\________    ___\:::\   \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \  /:::/\:::::::::::\    \  /\   \:::\   \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\/:::/  |:::::::::::\____\/::\   \:::\   \:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /\::/   |::|~~~|~~~~~     \:::\   \:::\   \::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \/____/ |::| /:::/    /  \/____|::|   |           \:::\   \:::\   \/____/ 
+             /:::/    /     \:::\    /:::/    /            |::|/:::/    /         |::|   |            \:::\   \:::\    \     
+            /:::/    /       \:::\__/:::/    /             |::::::/    /          |::|   |             \:::\   \:::\____\    
+           /:::/    /         \::::::::/    /              |:::::/    /           |::|   |              \:::\  /:::/    /    
+          /:::/    /           \::::::/    /               |::::/    /            |::|   |               \:::\/:::/    /     
+         /:::/    /             \::::/    /                /:::/    /             |::|   |                \::::::/    /      
+        /:::/    /               \::/____/                /:::/    /              \::|   |                 \::::/    /       
+        \::/    /                 ~~                      \::/    /                \:|   |                  \::/    /        
+         \/____/                                           \/____/                  \|___|                   \/____/         
+                                                                                                                           
+                                                                                                                           
+                                                                    This website was lovingly typed by Andrew Monks
+                                                                                                    http://monks.co
+                                                                                                         a@monks.co  -->
+
+
+
+
+<!-- 	meta -->
+		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<title>Rave Matthew's Band</title>
+		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+			_gaq.push(['_setAccount', 'UA-7421722-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<meta property="og:title" content="Rave Matthew's Band">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="band">
+		<meta property="og:url" content="http://belgianman.com/djwars/">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Rave Matthew's Band is a project between Providence, RI-based DJs Remy Steele of i am (noun), and Luc Lacerte.">
+		<meta name="description" content="Rave Matthew's Band is a project between Providence, RI-based DJs Remy Steele of i am (noun), and Luc Lacerte.">
+	</head>
+	<body>
+		<div id="header">
+			<div class="logo">
+				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
+			</div>
+			<div class="container_12">
+				<div class="grid_5 nav">
+					<p><a href="/artists">Artists</a></p>
+					<p><a href="/releases">Releases</a></p>
+					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
+					<p><a href="/videos">Videos</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="main">
+			<h1>DJ Wars</h1>
+			<div class="container_12">
+				<div class="clear"></div>
+				<div class="grid_2 white "><span class="title">DJ Wars</span></div>
+				<div class="grid_4 white"><span class="title">Mixes</span></div>
+				<div class="grid_3 white"><span class="title">Luc's Soundcloud</span></div>
+				<div class="grid_3 white"><span class="title">Remy's Soundcloud</span></div>
+				<div class="clear"></div>
+				<div class="grid_2">
+					<p>Rave Matthew's Band, (formerly DJ Wars) is a project between Providence, RI d.j.s <a href="/remy">Remy Steele</a>, also of <a href="/noun">i am (noun)</a>, and <a href="/luc">Luc Lacerte</a>. They're alternating back and forth creating heavy electro dubstep mixes. Their first set, 1-4, came out in February of 2012, and their second set, 5-8, came out in September 2012.</p>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/dj-wars-1-4"><img src="http://f0.bcbits.com/z/26/39/2639682034-1.png" alt="DJ Wars 1-4" /></a>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/dj-wars-5-8"><img src="http://f0.bcbits.com/z/41/16/4116400311-1.jpg" alt="DJ Wars 5-8" /></a>
+				</div>
+				<div class="grid_3">
+					<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F52011227&show_artwork=true&show_artwork=true&callback=reqwest_0&_=1347250871456"></iframe>
+				</div>
+				<div class="grid_3">
+					<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F49035799&show_artwork=true&show_artwork=true&callback=reqwest_0&_=1347250932410"></iframe>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<div id="bottom">
+			<div class="container_12">
+				<div class="space">
+					<p><a href="http://greeenha.us">GREEENHAU$</a> | 3316 N. Halsted Street, 3rd Floor | Chicago, IL 60657</p>
+				</div>
+				<div class="space">
+					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

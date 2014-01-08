@@ -1,3 +1,32 @@
+.bandcamp, .vimeo {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.bandcamp:after {
+	margin-top: 100%;
+}
+
+.vimeo:after{
+    margin-top: 75%%;
+}
+
+.bandcamp:after, .vimeo:after {
+    content: '';
+    display: block;
+}
+
+.bandcamp iframe, .vimeo iframe, #galleria{
+	position:absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
 html {
 	padding: 0;
 	margin: 0;

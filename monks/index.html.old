@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	
+<!--      _____                   _______                   _____                    _____                    _____          
+         /\    \                 /::\    \                 /\    \                  /\    \                  /\    \         
+        /::\____\               /::::\    \               /::\____\                /::\____\                /::\    \        
+       /::::|   |              /::::::\    \             /::::|   |               /:::/    /               /::::\    \       
+      /:::::|   |             /::::::::\    \           /:::::|   |              /:::/    /               /::::::\    \      
+     /::::::|   |            /:::/~~\:::\    \         /::::::|   |             /:::/    /               /:::/\:::\    \     
+    /:::/|::|   |           /:::/    \:::\    \       /:::/|::|   |            /:::/____/               /:::/__\:::\    \    
+   /:::/ |::|   |          /:::/    / \:::\    \     /:::/ |::|   |           /::::\    \               \:::\   \:::\    \   
+  /:::/  |::|___|______   /:::/____/   \:::\____\   /:::/  |::|   | _____    /::::::\____\________    ___\:::\   \:::\    \  
+ /:::/   |::::::::\    \ |:::|    |     |:::|    | /:::/   |::|   |/\    \  /:::/\:::::::::::\    \  /\   \:::\   \:::\    \ 
+/:::/    |:::::::::\____\|:::|____|     |:::|    |/:: /    |::|   /::\____\/:::/  |:::::::::::\____\/::\   \:::\   \:::\____\
+\::/    / ~~~~~/:::/    / \:::\    \   /:::/    / \::/    /|::|  /:::/    /\::/   |::|~~~|~~~~~     \:::\   \:::\   \::/    /
+ \/____/      /:::/    /   \:::\    \ /:::/    /   \/____/ |::| /:::/    /  \/____|::|   |           \:::\   \:::\   \/____/ 
+             /:::/    /     \:::\    /:::/    /            |::|/:::/    /         |::|   |            \:::\   \:::\    \     
+            /:::/    /       \:::\__/:::/    /             |::::::/    /          |::|   |             \:::\   \:::\____\    
+           /:::/    /         \::::::::/    /              |:::::/    /           |::|   |              \:::\  /:::/    /    
+          /:::/    /           \::::::/    /               |::::/    /            |::|   |               \:::\/:::/    /     
+         /:::/    /             \::::/    /                /:::/    /             |::|   |                \::::::/    /      
+        /:::/    /               \::/____/                /:::/    /              \::|   |                 \::::/    /       
+        \::/    /                 ~~                      \::/    /                \:|   |                  \::/    /        
+         \/____/                                           \/____/                  \|___|                   \/____/         
+                                                                                                                           
+                                                                                                                           
+                                                                    This website was lovingly typed by Andrew Monks
+                                                                                                    http://monks.co
+                                                                                                         a@monks.co  -->
+
+
+
+
+<!-- 	meta -->
+		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<title>Andrew Monks</title>
+		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+		var pluginUrl = 
+		 '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+			_gaq.push(['_setAccount', 'UA-7421722-2']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<meta property="og:title" content="Andrew Monks">
+		<meta property="og:site_name" content="Belgian Man Records">
+		<meta property="og:type" content="public_figure">
+		<meta property="og:url" content="http://belgianman.com/monks">
+		<meta property="og:image" content="http://belgianman.com/assets/logo.png">
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="700">
+		<meta property="og:image:height" content="693">
+		<meta property="og:description" content="Andrew Monks is the founder of Belgian Man Records.">
+		<meta name="description" content="Andrew Monks is the founder of Belgian Man Records.">		
+	</head>
+	<body>
+		<div id="header">
+			<div class="logo">
+				<a href="/"><img src="/assets/logo.png" id="logo" alt="Belgian Man Records" /></a>
+			</div>
+			<div class="container_12">
+				<div class="grid_5 nav">
+					<p><a href="/artists">Artists</a></p>
+					<p><a href="/releases">Releases</a></p>
+					<p><a href="http://music.belgianman.com/merch">Goods</a></p>
+					<p><a href="/videos">Videos</a></p>
+					<p><a href="http://facebook.com/belgianman">Facebook</a></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="main">
+			<h1>Andrew Monks</h1>
+			<div class="container_12">
+				<div class="clear"></div>
+				<div class="grid_3 white "><span class="title">Andrew Monks</span></div>
+				<div class="grid_3 white"><span class="title">Album Covers</span></div>
+				<div class="grid_4 white"><span class="title">Releases</span></div>
+				<div class="grid_2 white"><span class="title">Poster</span></div>
+				<div class="clear"></div>
+				<div class="grid_3">
+					<img src='/assets/artists/monkspage.jpg' />
+					<p><a href="http://monks.co">Andrew Monks</a> is a founder of Belgian Man Records. He releases music under the name clown, and contributes album artwork to many Belgian Man releases. He made this website.</p>
+					<p>Andrew, <a href="/david">David Yanofsky</a>, and <a href="/abbott">Charlie Abbott</a> make up <a href="/trucks">the Big Trucks</a>, Belgian Man&#8217;s original band.</p>
+
+					<div class="white title">Video</div>
+					<p class="vimeo"><iframe src="http://player.vimeo.com/video/63618711?byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+					<p>Video for Mhmm, by <a href="/modus">Modus</a>. </p>
+					<p class="vimeo"><iframe src="http://player.vimeo.com/video/60306447?byline=0&amp;portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+					<p>Video for can-f, by <a href="/ryv">RYV</a>. </p>
+				</div>
+				<div class="grid_1">
+					<p><a href="http://music.belgianman.com/album/dj-wars-5-8"><img src="http://f0.bcbits.com/z/41/16/4116400311-1.jpg" alt="DJ Wars 5-8" /></a></p>
+					<p><a href="http://music.belgianman.com/album/pianophant"><img src="http://f0.bcbits.com/z/35/19/3519730179-1.jpg" alt="Pianophant" /></a></p>
+					<p><a href="http://music.belgianman.com/album/2011-minitour"><img src="http://f0.bcbits.com/z/13/85/1385277246-1.jpg" alt="2011 Minitour" /></a></p>
+					<p><a href="http://music.belgianman.com/album/the-science-of-drifting-apart"><img src="http://f0.bcbits.com/z/38/57/3857056720-1.jpg" alt="The Science Of Drifting Apart" /></a></p>
+					<p><a href="http://music.belgianman.com/track/belgian-man-sampler-mix-2012-2"><img src="http://f0.bcbits.com/z/27/50/275060841-1.jpg" alt="Cowboy Concrete" /></a></p>
+					<p><a href="http://music.belgianman.com/album/zombie"><img src="http://f0.bcbits.com/z/10/02/1002117398-1.jpg" alt="Zombie" /></a></p>
+					<p><a href="http://music.belgianman.com/album/make-noise-then-dont-stop-making-it"><img src="http://f0.bcbits.com/z/16/84/1684339240-1.jpg" alt="Make Noise Then Don't Stop Making It" /></a></p>
+				</div>
+				<div class="grid_1">
+					<p><a href="http://music.belgianman.com/album/how-you-feel-fighting-temptation-all-the-time"><img src="http://f0.bcbits.com/z/27/71/277115517-1.jpg" alt="How You Feel Fighting Temptation All The Time"/></a></p>
+					<p><a href="http://belgianman.bandcamp.com/album/real-avant-garde-kanye-shit-seriously-dead-ass"><img src="http://f0.bcbits.com/z/30/74/3074326410-1.jpg" alt="Real avant-garde Kanye shit. Seriously. Dead-ass." /></a></p>
+					<p><a href="http://music.belgianman.com/album/squares"><img src="http://f0.bcbits.com/z/99/74/997406212-1.jpg" alt="Squares" /></a></p>
+					<p><a href="http://music.belgianman.com/album/cowards-ghosts"><img src="http://f0.bcbits.com/z/34/56/3456384835-1.jpg" alt="Cowards & Ghosts" /></a></p>
+					<p><a href="http://music.belgianman.com/album/secret-sauce"><img src="http://f0.bcbits.com/z/41/05/4105131931-1.jpg" alt="Secret Sauce" /></a></p>
+					<p><a href="http://music.belgianman.com/album/east-coast-magic"><img src="http://f0.bcbits.com/z/32/31/3231620187-1.jpg" alt="East Coast Magic" /></a></p>
+					<p><a href="http://music.belgianman.com/album/packin-heat-ep"><img src="http://f0.bcbits.com/z/35/48/3548714224-1.jpg" alt="Packin' Heat" /></a></p>
+				</div>
+				<div class="grid_1">
+					<p><a href="http://music.belgianman.com/album/gilit"><img src="http://f0.bcbits.com/z/37/20/3720656305-1.png" alt="Agility" /></a></p>
+					<p><a href="http://music.belgianman.com/album/transmission"><img src="http://f0.bcbits.com/z/18/57/1857722259-1.jpg" alt="Transmission" /></a></p>
+					<p><a href="http://music.belgianman.com/album/dj-wars-1-4"><img src="http://f0.bcbits.com/z/26/39/2639682034-1.png" alt="DJ Wars 1-4" /></a></p>
+					<p><a href="http://music.belgianman.com/album/keepin-warm"><img src="http://f0.bcbits.com/z/18/71/1871119135-1.jpg" alt="Cowboy Concrete" /></a></p>
+					<p><a href="http://music.belgianman.com/album/stop-saying-words-then-dont-stop-stopping-saying-them"><img src="http://f0.bcbits.com/z/35/69/356999074-1.jpg" alt="Stop Saying Words Then Don't Stop Stopping Saying Them" /></a></p>
+					<p><a href="http://music.belgianman.com/album/autumn-mix"><img src="http://f0.bcbits.com/z/94/49/9449528-1.jpg" alt="Autumn Mix" /></a></p>
+					<p><a href="http://music.belgianman.com/album/darlington"><img src="http://f0.bcbits.com/z/16/75/1675676650-1.jpg" alt="Darlington" /></a></p>
+				</div>
+				<div class="grid_2 ">
+					<a href="http://music.belgianman.com/album/om-nni"><img src="http://f0.bcbits.com/z/70/84/708450516-1.png" alt="OM/NNI + //&amp;~occur" /></a>
+					<p>OM/NNI + //&amp;~occur are two tracks by clown, exploring circular motion and pressure. They were recorded live using a custom-made wiimote-controlled sound generator.</p>
+					<a href="http://music.belgianman.com/album/dont-fuck-with-the-witch"><img src="http://f0.bcbits.com/z/18/01/1801350049-1.jpg" alt="Dont Fuck With The Witch" /></a>
+					<p>Don&#8217;t Fuck With The Witch / Witch Bizness is a 5 minute / 5 section track by clown, composed of samples from Da Hip Hop Witch, a low-budget film featuring Eminem, Ja Rule, Mobb Deep, Pras, Rah Digga, Vitamin C, and Vanilla Ice, among others.</p>
+				</div>
+				<div class="grid_2">
+					<a href="http://music.belgianman.com/album/kanyefactory-beta-shit"><img src="http://f0.bcbits.com/z/19/91/1991646996-1.jpg" alt="KANYEFACTORY//beta_shit" /></a>
+					<p>KANYE&#x200B;FACTORTY&#x200B;//beta_shit is a quick 15-minute demo of some stuff I&#8217;ve worked on recently. I think it has a decent variety of sounds and samples, and it was all fun to make.</p>
+					<a href="http://music.belgianman.com/album/big-trux-do-holiday-pirit-whil-t-gho-triding-the-whip"><img src="http://f0.bcbits.com/z/37/57/3757786927-1.jpg" alt="Big Trux Do Holiday $pirit Whil$t Gho$triding The Whip" /></a>
+					<p>Big Trux Do Holiday &#36;pirit Whil&#36;t Gho&#36;triding The Whip is the debut album by <a href="/trucks">the Big Trucks</a>.</p>
+				</div>
+				<div class="grid_2">
+					<img src="/assets/poster.png" alt="poster"/>
+					<p>Andrew produced the posters for the July 12th Belgian Man show at <a href="/arjuntina">Arjuntina</a>.</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<div id="bottom">
+			<div class="container_12">
+				<div class="space">
+					<p><a href="http://greeenha.us">GREEENHAU$</a> | 3316 N. Halsted Street, 3rd Floor | Chicago, IL 60657</p>
+				</div>
+				<div class="space">
+					<p>All music is licensed under a <a href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons by-nc</a> license.</p>
+					<p><a href="https://github.com/andrewjmonks/belgianman">Website</a> &copy;2013 <a href="http://monks.co">Andrew Monks</a>.</p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+	
