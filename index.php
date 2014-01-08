@@ -100,7 +100,7 @@
 		<div id="main">
 			<h1>Belgian Man Records</h1>
 			<div class="container_12">
-			
+				<div class="clear"></div>
 <!-- 			FIRST COLUMN	 -->
 				<div class="grid_3">
 					<?php
