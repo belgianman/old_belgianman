@@ -36,8 +36,8 @@
                  (Example: sitemap_type="news")
 -->
  <site
-  base_url="http://blgn.mn/"
-  store_into="/opt/bitnami/apps/subf/htdocs/sitemap.xml"
+  base_url="http://belgianman.com/"
+  store_into="/opt/bitnami/apps/belgianman.com/htdocs/sitemap.xml"
   verbose="1"
   sitemap_type="web"
  >
@@ -79,9 +79,9 @@
 
 
   <directory
-     path="/opt/bitnami/apps/subf/htdocs"
-     url="http://blgn.mn/"
-     default_file="index.html"
+     path="/opt/bitnami/apps/belgianman.com/htdocs"
+     url="http://belgianman.com/"
+     default_file="index.php"
      remove_empty_directories="true"
   />
 
