@@ -13,7 +13,7 @@
 }
 
 .bandcamp:after, .vimeo:after {
-    content: '';
+    content: '&nbsp;';
     display: block;
 }
 
