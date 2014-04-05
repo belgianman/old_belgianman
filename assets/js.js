@@ -1,6 +1,6 @@
 (function(){ 
 	function loadScript(url) {
-		var head = document.getElementsByTagName("body")[0];
+		var head = document.getElementsByTagName("head")[0];
 		var script = document.createElement("script");
 		script.src = url;
 
