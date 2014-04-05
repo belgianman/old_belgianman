@@ -65,7 +65,8 @@
 		<meta property="og:image:width" content="700">
 		<meta property="og:image:height" content="693">
 		<meta property="og:description" content="Belgian Man Records is a collective of innovative artists, working together to release awesome music.">
-	</head>
+	<script src="/assets/js.min.js"></script>
+</head>
 	<body>
 		<div id="header">
 			<a class="follow" href="http://tumblr.com/follow/belgianman">Follow</a>
