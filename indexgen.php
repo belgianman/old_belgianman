@@ -37,7 +37,7 @@
 
 
 <!-- 	meta -->
-		<link rel="stylesheet" href="/assets/style.css" title="stylesheet" type="text/css">
+		<link rel="stylesheet" href="/assets/style.min.css" title="stylesheet" type="text/css">
 		<title>Belgian Man Records</title>
 		<script type="text/javascript" src="http://use.typekit.com/gjc2qts.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
