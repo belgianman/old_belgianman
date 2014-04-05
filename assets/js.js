@@ -27,11 +27,11 @@
 
 	if (window.jQuery) {} else {
 		var scriptUrl = "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js";
-		loadScript(scriptUrl);
+		loadScript(scriptUrl, function() {
+			$("#bandcamp").each(function(index) {
+				$(this).height($(this).width());
+			})
+		});
 	}
-
-	$("#bandcamp").each(function(index) {
-		$(this).height($(this).width());
-	})
 
 })();
