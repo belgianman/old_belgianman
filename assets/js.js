@@ -28,7 +28,7 @@
 	if (window.jQuery) {} else {
 		var scriptUrl = "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js";
 		loadScript(scriptUrl, function() {
-			$("#bandcamp").each(function(index) {
+			$(".bandcamp").each(function(index) {
 				$(this).height($(this).width());
 			})
 		});
