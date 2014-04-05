@@ -1,5 +1,5 @@
 (function(){ 
-	function loadScript(url) {
+	function loadScript(url, callback) {
 		var head = document.getElementsByTagName("head")[0];
 		var script = document.createElement("script");
 		script.src = url;
@@ -13,6 +13,8 @@
 						|| this.readyState == "complete") )
 			{
 				done = true;
+
+				callback();
 
 				// Handle memory leak in IE
 				script.onload = script.onreadystatechange = null;
