@@ -52,7 +52,7 @@ files.each do |filename|
 
 		puts "html:"
 		# generate an embed code
-		embed = '<p class="bandcamp"><iframe style="border: 0; width:100%;" src="http://bandcamp.com/EmbeddedPlayer/album=' + albumid.to_s + '/size=large/bgcol=333333/linkcol=e32c14/transparent=true/" seamless><a href="' + url + '">' + albuminfo["title"] + ' by ' + artist + '</a></iframe></p>'
+		embed = '<p class="bandcamp"><iframe style="border: 0; width:100%;" src="http://bandcamp.com/EmbeddedPlayer/album=' + albumid.to_s + '/size=large/bgcol=ffffff/linkcol=000000/transparent=true/" seamless><a href="' + url + '">' + albuminfo["title"] + ' by ' + artist + '</a></iframe></p>'
 		puts embed
 		puts ""
 
@@ -89,7 +89,7 @@ files.each do |filename|
 
 		puts "html:"
 		# generate an embed code
-		embed = '<p class="bandcamp"><iframe style="border: 0; width:100%;" src="http://bandcamp.com/EmbeddedPlayer/track=' + trackid.to_s + '/size=large/bgcol=333333/linkcol=e32c14/transparent=true/" seamless><a href="' + url + '">' + trackinfo["title"] + ' by ' + artist + '</a></iframe></p>'
+		embed = '<p class="bandcamp"><iframe style="border: 0; width:100%;" src="http://bandcamp.com/EmbeddedPlayer/track=' + trackid.to_s + '/size=large/bgcol=ffffff/linkcol=000000/transparent=true/" seamless><a href="' + url + '">' + trackinfo["title"] + ' by ' + artist + '</a></iframe></p>'
 		puts embed
 		puts ""
 
